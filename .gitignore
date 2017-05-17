@@ -1,0 +1,6 @@
+temp_file.txt
+.DS_Store
+*.zip
+*.gz
+assets/photoshop/
+assets/videos/
